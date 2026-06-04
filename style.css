@@ -1,0 +1,14 @@
+third {
+            color: aquamarine;
+            font-size: 30px;
+            text-transform: uppercase;
+        }  
+            * {
+            color: firebrick;
+            font-size: 30px;
+            text-transform: uppercase;
+
+        }
+        body {
+            background-color: chocolate;
+        }
